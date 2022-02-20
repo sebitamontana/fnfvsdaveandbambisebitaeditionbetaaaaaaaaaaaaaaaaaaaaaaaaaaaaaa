@@ -1,0 +1,4 @@
+esto ara cuando el enemigo cante te quitara vida como
+en vs tabi
+value 1 
+value 2 
